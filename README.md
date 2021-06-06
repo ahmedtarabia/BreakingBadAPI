@@ -1,4 +1,4 @@
-# Simple Breaking Bad API
+# Simple Breaking Bad API 
 
 **Link to project:** https://ahmedtarabia.github.io/BreakingBadAPI/
 
